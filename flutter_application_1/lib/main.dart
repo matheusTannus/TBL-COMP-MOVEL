@@ -17,7 +17,7 @@ class Tela1 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Você está na tela inicial")),
+      appBar: AppBar(title: const Text("Você esta na tela inicial")),
       body: Center(
         child: ElevatedButton(
           child: const Text("Ir para detalhe"),
@@ -38,7 +38,7 @@ class Tela2 extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Scaffold(
-      appBar: AppBar(title: const Text("Você está na Tela de Detalhe")),
+      appBar: AppBar(title: const Text("Você esta na tela detalhe")),
       body: Center(
         child: ElevatedButton(
           child: const Text("Voltar"),
