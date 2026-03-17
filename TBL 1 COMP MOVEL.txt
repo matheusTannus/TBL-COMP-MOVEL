@@ -1,0 +1,18 @@
+    - TBL 1 COMP MOVEL
+Exemplo 1:
+Não esta centralizado o item 1, item 2 e item 3.
+Não tem nada alinhado a esquerda.
+
+Exemplo 2:
+Significa espaçar uniformemente as widgets.
+Ele espalha os itens pela tela com espaço em volta de cada um.
+
+EXPLIQUE 1
+EdgeInsets.all()       | Mesmo valor em todos os lados        
+EdgeInsets.symmetric() | Um valor vertical e outro horizontal 
+EdgeInsets.only()      | Controlar cada lado separadamente    
+
+EXPLIQUE 2 
+Largura fixa o layout pode quebrar
+Layout responsivo adpta a qualquer tela
+
